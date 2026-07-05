@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Storefront roof / pediment in gold -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,20 L88,38 L20,38 Z" />
+    
+    <!-- Foundation and Columns representing sovereign security -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M24,42 H84 V46 H24 Z M28,48 H36 V76 H28 Z M48,48 H60 V76 H48 Z M72,48 H80 V76 H72 Z M20,78 H88 V84 H20 Z" />
+
+    <!-- Central Lock Cylinder reflecting offline/self-hosted safety -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,58 C56.76,58 59,55.76 59,53 C59,50.24 56.76,48 54,48 C51.24,48 49,50.24 49,53 C49,55.76 51.24,58 54,58 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M51.5,57 L56.5,57 L58,70 L50,70 Z" />
+</vector>
